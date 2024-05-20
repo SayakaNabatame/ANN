@@ -1,6 +1,7 @@
-# Transformer
+# ANN
 ## QueenField
+Attention Neural Network for a MPSoC verified with UVM/OSVVM/FV
 
 ![QueenField](../main/icon.jpg)
 
-**Transformer for a MPSoC verified with UVM/OSVVM/FV**
+**ANN for a MPSoC verified with UVM/OSVVM/FV**
